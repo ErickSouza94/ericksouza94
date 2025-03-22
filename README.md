@@ -39,7 +39,7 @@
 - Entre no meu portfólio para ver meus principais projetos, clicando na imagem abaixo. <br/>
 <!-- IMG -->
 <p align="left">
-  <a href="https://portifolio-erick-souza.vercel.app" target=_noblank>
+  <a href="https://portifolio-erick-souza.vercel.app" target="_blank">
     <img src="https://github.com/user-attachments/assets/407d1c6c-442e-4c1b-be84-caf836490f00" alt="port">
   </a>
 </p>
