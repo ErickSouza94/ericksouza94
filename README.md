@@ -1,49 +1,78 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá! Me chamo Erick</h1></summary>
 </div>
 
-###
+<!-- Presentation -->
+<p>
+  Oi 👋, eu me chamo Erick e sou um desenvolvedor front-end, com foco em ReactJs. <br/> Atualmente estou morando em Portugal!.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas pela faculdade Estácio de Sá e sou formado em História 🎓.
 
-###
+  - 🔭 Estou buscando por vagas como desenvolvedor front-end, de preferencia em RectJS.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-###
+  - 💬 Me chamo Erick Souza, tenho 30 anos de idade, moro atualmente em Portugal e sou um Desenvolvedor Front-end com foco em desenvolvimento web utilizando ferramentas atuais como React, JavaScript, HTML, CSS, Bootstrap NodeJs e Tailwind. Minha trajetória combina educação tecnológica e programação, permitindo-me criar interfaces modernas e interativas.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- Tenho experiência na criação de aplicações web responsivas e em integração de APIs, sempre buscando aprimorar a acessibilidade e experiência do usuário. Além disso, minha atuação na educação tecnológica me proporcionou habilidades em ensino de programação, metodologias ativas e projetos STEAM. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, explorando React.js, Next.js e arquitetura de software.
 
-###
+- Sempre aberto para novos conhecimentos!
+</details>
 
-<br clear="both">
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericksniks/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksouza94/)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<!-- GithubStats -->
+![ErickSouza94 GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksouza94&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksouza94&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Portfolio -->
+## Portfólio:
+- Entre no meu portfólio para ver meus principais projetos, clicando na imagem abaixo. <br/>
+<!-- IMG -->
+<p align="left">
+  <a href="https://portifolio-erick-souza.vercel.app" target=_noblank>
+    <img src="https://github.com/user-attachments/assets/407d1c6c-442e-4c1b-be84-caf836490f00" alt="port">
+  </a>
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de Programação</h3>
+      <h2>Front-end</h2>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+        <img width="12" />
+      <h2>Back-end</h2>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+        <img width="12" />
+      <h2>Banco de dados</h2>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+      <h2>Ferramentas</h2>
+        <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+        <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
