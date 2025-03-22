@@ -36,13 +36,10 @@
 
 <!-- Portfolio -->
 ## Portfólio:
->🌐 Entre no meu portfólio para ver meus principais projetos, clicando na imagem abaixo. <br/>
-<!-- IMG -->
-<p align="left">
-  <a href="https://portifolio-erick-souza.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/407d1c6c-442e-4c1b-be84-caf836490f00" alt="port">
-  </a>
-</p>
+>🌐 Entre no meu portfólio para ver meus principais projetos, clicando no badge abaixo. <br/>
+
+<!-- Badge do Shields.io -->
+[![Visite meu portfólio](https://img.shields.io/badge/Visite-Meu%20Portfólio-blue?logo=react&logoColor=white&style=for-the-badge)](https://portifolio-erick-souza.vercel.app)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
