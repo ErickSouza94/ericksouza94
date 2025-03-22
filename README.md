@@ -36,7 +36,7 @@
 
 <!-- Portfolio -->
 ## Portfólio:
-- Entre no meu portfólio para ver meus principais projetos, clicando na imagem abaixo. <br/>
+>🌐 Entre no meu portfólio para ver meus principais projetos, clicando na imagem abaixo. <br/>
 <!-- IMG -->
 <p align="left">
   <a href="https://portifolio-erick-souza.vercel.app" target="_blank" rel="noopener noreferrer">
