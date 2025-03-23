@@ -88,7 +88,7 @@
   ---
   <div align="center">
     
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=222snr7bsjtq3ji2dzo3biama&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1fbd00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=222snr7bsjtq3ji2dzo3biama&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=222snr7bsjtq3ji2dzo3biama&redirect=true)
   </div>
 
   <img src="https://raw.githubusercontent.com/ericksouza94/ericksouza94/output/snake.svg" alt="Snake animation" />
