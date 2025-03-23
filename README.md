@@ -31,11 +31,9 @@
 ---
 
 <!-- GithubStats -->
-<div align="center">
-  [![ErickSouza94's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksouza94&show_icons=true&theme=transparent)](https://github.com/ericksouza94/github-readme-stats)
+  ![ErickSouza94 GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksouza94&show_icons=true&theme=dark)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksouza94&show_icons=true&theme=dark)](https://github.com/ericksouza94/github-readme-stats)
-</div>
 
 <!-- Portfolio -->
 ## Portfólio:
