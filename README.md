@@ -84,5 +84,7 @@
   </div>
 
   ---
-  
-   <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNramV2bTFlbmlzczhteGkzb2Y1NDE1a2dxOGlxZnk5cjVhd25zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Imagem">
+  <div align="center">
+    
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=222snr7bsjtq3ji2dzo3biama&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1fbd00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  </div>
