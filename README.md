@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋, eu me chamo Erick e sou um desenvolvedor front-end, com foco em ReactJs. <br/> Atualmente estou morando em Portugal!.
+  Oi 👋, eu me chamo Erick e sou um desenvolvedor front-end, com foco em ReactJs.
 
   - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas pela faculdade Estácio de Sá e sou formado em História 🎓.
 
