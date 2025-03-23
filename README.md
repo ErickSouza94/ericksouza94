@@ -31,9 +31,14 @@
 ---
 
 <!-- GithubStats -->
+<div align="center">
+  <p>
+    
   ![ErickSouza94 GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksouza94&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksouza94&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksouza94&show_icons=true&theme=dark)](https://github.com/ericksouza94/github-readme-stats)
+  </p>
+</div>
 
 <!-- Portfolio -->
 ## Portfólio:
@@ -77,3 +82,7 @@
         <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
         <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+
+  ---
+  
+   <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNramV2bTFlbmlzczhteGkzb2Y1NDE1a2dxOGlxZnk5cjVhd25zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="Imagem">
